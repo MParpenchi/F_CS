@@ -13,3 +13,18 @@ All exercises, files and future progress will be added gradually.
 ---
 
 ## Repository Structure
+
+---
+
+## 🔧 Technologies
+- Python  
+- Jupyter Notebook  
+- Git & GitHub  
+
+---
+
+## 🚀 How to Run
+```bash
+git clone https://github.com/MParpenchi/F_CS.git
+cd F_CS
+jupyter notebook project.ipynb
