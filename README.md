@@ -34,3 +34,7 @@ All exercises, files and future progress will be added gradually.
 git clone https://github.com/MParpenchi/F_CS.git
 cd F_CS
 jupyter notebook project.ipynb
+
+## 🔄 Project Status
+![status](https://img.shields.io/badge/Status-Active-brightgreen)
+
