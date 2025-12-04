@@ -23,7 +23,13 @@ All exercises, files and future progress will be added gradually.
 
 ---
 
-## 🚀 How to Run
+## Goals
+- Strengthen Python fundamentals  
+- Practice algorithms & logic  
+- Improve coding through teamwork  
+
+
+## How to Run
 ```bash
 git clone https://github.com/MParpenchi/F_CS.git
 cd F_CS
